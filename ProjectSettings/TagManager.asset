@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Light Particle
+  - Water
+  - UI
+  - Obstacle
+  - Player
+  - LightReceiver
+  - DefaultIgnorePlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2004777699
+    locked: 0
+  - name: Player And Objects
+    uniqueID: 2228893957
+    locked: 0
+  - name: Top
+    uniqueID: 656853615
+    locked: 0
+  - name: Highest
+    uniqueID: 1632802281
+    locked: 0
+  - name: InGameUI
+    uniqueID: 3519552421
+    locked: 0
